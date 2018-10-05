@@ -1,0 +1,13 @@
+﻿  tset.cpp
+c:\users\acer\mp2-lab1-set\src\tset.cpp(158): warning C4018: <: несоответствие типов со знаком и без знака
+  tbitfield.cpp
+c:\users\acer\mp2-lab1-set\src\tbitfield.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\acer\mp2-lab1-set\src\tbitfield.cpp(38): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\acer\mp2-lab1-set\src\tbitfield.cpp(124): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\acer\mp2-lab1-set\src\tbitfield.cpp(140): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\acer\mp2-lab1-set\src\tbitfield.cpp(160): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\acer\mp2-lab1-set\src\tbitfield.cpp(172): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\acer\mp2-lab1-set\src\tbitfield.cpp(184): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\acer\mp2-lab1-set\src\tbitfield.cpp(217): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  bitfield.vcxproj -> C:\Users\acer\mp2-lab1-set\sln\vc10\Debug\bitfield.lib
